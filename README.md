@@ -12,7 +12,7 @@ Esta base de datos está compuesta por 14 documentos que fueron obtenidos a part
 
 •	Combinación número 3: (cambios tafonómicos OR factores tafonómicos) AND (cambios entomológicos OR factores entomológicos) AND (tejido enterrado a baja profundidad NOT tejido expuesto) AND (condiciones edafoclimáticas)
 
-Estos documentos se encuentran contenidos en cada una de las ramas que componen este repositorio; además, en la rama principal se encuentra un archivo Excel con el Sistema Tabular de Información que sintetiza toda la información usada para el presente estudio.
+Estos documentos se encuentran contenidos en cada una de las ramas que componen este repositorio (Cambios tafonómicos en tejidos enterrados a baja profundidad, Cambios entomológicos en tejidos enterrados a baja profundidad y Factores tafonómicos y entomológicos en relación con las condiciones edafoclimáticas); además, en la rama principal se encuentra un archivo Excel con el Sistema Tabular de Información que sintetiza toda la información usada para el presente estudio.
 
 # Fuentes de Recolección de Datos
 
