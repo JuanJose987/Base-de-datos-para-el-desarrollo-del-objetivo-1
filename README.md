@@ -1,15 +1,23 @@
-# Database of bibliographic study on taphonomic and entomological factors involved in changes in human tissue buried at shallow depths
+# Base de datos de un estudio bibliográfico sobre los factores tafonómicos y entomológicos que intervienen en los cambios en tejido humano enterrado a baja profundidad
 
-Thank you for your interest in interacting with this database to nurture your research.
+Gracias por su interés en interactuar con esta base de datos para fortalecer su investigación.
 
-# Description
+# Descripción
 
-To develop the first part of the research process, the following search equations were applied:  
+Esta base de datos está compuesta por 14 documentos que fueron obtenidos a partir de los buscadores de bases de datos científicas como Google Académico, Redalyc y Science Direct. En estas plataformas se aplicaron las siguientes ecuaciones de búsqueda:  
 
-- Combination number 1: (cambios tafonómicos OR tafonomía) AND (tejido enterrado a baja profundidad NOT tejido expuesto). 
+•	Combinación número 1: (cambios tafonómicos OR tafonomía) AND (tejido enterrado a baja profundidad NOT tejido expuesto) 
 
-- Combination number 2: (cambios entomológicos OR entomología) AND (tejido enterrado a baja profundidad NOT tejido expuesto).
+•	Combinación número 2: (cambios entomológicos OR entomología) AND (tejido enterrado a baja profundidad NOT tejido expuesto)
 
-- Combination number 3: (cambios tafonómicos OR factores tafonómicos) AND (cambios entomológicos OR factores entomológicos) AND (tejido enterrado a baja profundidad NOT tejido expuesto) AND (condiciones edafoclimáticas).
+•	Combinación número 3: (cambios tafonómicos OR factores tafonómicos) AND (cambios entomológicos OR factores entomológicos) AND (tejido enterrado a baja profundidad NOT tejido expuesto) AND (condiciones edafoclimáticas)
 
-The documents obtained after the application of the search equations were screened according to the inclusion and exclusion criteria, in such a way that for word combination number 1 a total of 6 words were found, for combination 2 there were 10, combination 3 there were 15, in total: 31, but 7 of these were repeated, and of these 24, 10 were not useful because they did not meet the inclusion criteria. Finally, 14 were left: 3 from combination number 1, 4 from combination number 2 and 7 from combination number 3. These documents are contained in each of the branches that make up this project; in addition, in the main branch there is an Excel file with the Sistema Tabular de Información that synthesizes all the information used for this study.
+Estos documentos se encuentran contenidos en cada una de las ramas que componen este repositorio; además, en la rama principal se encuentra un archivo Excel con el Sistema Tabular de Información que sintetiza toda la información usada para el presente estudio.
+
+# Fuentes de Recolección de Datos
+
+Los documentos obtenidos tras la aplicación de las ecuaciones de búsqueda fueron cribados de acuerdo con los criterios de inclusión: que sean documentos en idioma español, que estén en un periodo de tiempo comprendido entre 2006 y 2023, los documentos depositados en los buscadores Google académico, Redalyc, Science Direct, solo se incluyen artículos académicos, tesis de pregrado o posgrado y capítulos de libros; y de exclusión, están los documentos cuyo contenido no están directamente relacionados con el tema. De tal manera que para la combinación número 1 de palabras se encontraron en total 6, para la combinación 2 fueron 10, combinación 3 se hallaron 15, en total: 31, pero de esas están repetidas 7, y de esas 24 no servían 10 por no cumplir los criterios de inclusión. Finalmente quedaron 14: 3 de la combinación número 1, 4 de la combinación número 2 y 7 de la combinación número 3.
+
+# Objetivo
+
+Caracterizar mediante un estudio bibliográfico los factores tafonómicos y entomológicos que intervienen en los cambios en tejido humano enterrado a baja profundidad, en función de tipos de condiciones edafoclimáticas de Colombia.
