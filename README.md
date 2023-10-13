@@ -2,7 +2,7 @@
 
 Gracias por el interés en la interacción con esta base de datos para nutrir su investigación.
 
-#Description
+# Description
 
 Para desarrollar la primera parte del proceso investigativo, se aplicaron las siguientes ecuaciones de búsqueda:  
 •	Combinación número 1: (cambios tafonómicos OR tafonomía) AND (tejido enterrado a baja profundidad NOT tejido expuesto) 
